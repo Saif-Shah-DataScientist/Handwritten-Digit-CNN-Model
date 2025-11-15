@@ -28,4 +28,19 @@ D:/data science class/Handwritten_Digit_CNN_Model/
 
 ## ▶️ How to Run
 
+
 ### 1. Activate your Anaconda environment
+
+# Handwritten Digit Recognition (Streamlit + TFLite)
+
+<… earlier sections …>
+
+## 📝 Notes
+- The model used is `digit_model.tflite`.
+- Works with images of handwritten digits (0–9).
+- Ensure TensorFlow 2.x and Streamlit are installed.
+
+---
+
+## ❤️ Author
+Saifullah — Machine Learning Project
